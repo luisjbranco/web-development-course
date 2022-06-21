@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: red;
+}
+
+.broccoli {
+  background-color: lightgreen;
+}
+
+#heading {
+  color: blue;
+}
+
+.circular {
+  border-radius: 100%;
+}
