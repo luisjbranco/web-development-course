@@ -1,0 +1,3 @@
+const apiKey = "2625517b86da61005ebb0cf98461f1d0-us8";
+
+const apiUrl = "https://us8.admin.mailchimp.com/lists/696c414725";
